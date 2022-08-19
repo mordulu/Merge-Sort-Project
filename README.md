@@ -57,6 +57,6 @@ Summary ->  n + n/2 + ... = n(1 + 1/2 + ...) = nlogn
 
 O(nlogn)
 
-
+[Patika.dev](www.patika.dev)
 
 
